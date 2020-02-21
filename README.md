@@ -71,5 +71,12 @@ This is command to show the last commands that you have used.
 
 It lists every code that has been used before.
 
+***Home directory and ~***
+
+Repository for the user’s local files
+
+> Vagrant@docker-test:~$ `cd ~`
+
+This command shows the first directory after the user loga in.
 
 
