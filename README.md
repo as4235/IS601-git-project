@@ -45,7 +45,15 @@ This command lets you see all of the files and other directories that exist in t
 
 upon using this command, it lists all the directories and branches.
 
+***mv***
 
+Mv is a command which lets you move files or directories, takes two arguments, the thing you want to move, and its new destination.
+
+> Vagrant@docker-test:~$ `mv [OPTION]... [-T] SOURCE DEST`
+
+> Vagrant@docker-test:~$ `mv [OPTION]... SOURCE... DIRECTORY`
+
+upon this command, the file is moved from the mentioned source to destination.
 
 
 
