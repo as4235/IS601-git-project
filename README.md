@@ -63,6 +63,13 @@ This command is used to remove a file or a directory in linux.
 
 upon this command, the file name mentioned is deleted.
 
+***history***
+
+This is command to show the last commands that you have used.
+
+> Vagrant@docker-test:~$ `history`
+
+It lists every code that has been used before.
 
 
 
