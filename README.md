@@ -98,3 +98,5 @@ When you press tab, linux will complete the rest of the file name to the best of
 ***Using up and down arrow for history***
 
 Hitting the up arrow will let you cycle through your previous commands, while hitting the down arrow will let you navigate towards your more recent commands.
+
+Linux commands by @as4235/IS601
