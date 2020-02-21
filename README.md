@@ -16,6 +16,16 @@ The mkdir command is used to create a new directory in whatever directory you ar
 
 upon this command, a new directory named as the user mentioned is created.
 
+***cp***
+
+This command is used to copy files or group of files or directory. It creates an exact image of a file on a disk with different file name. cp command require at least two filenames in its arguments.
+
+> Vagrant@docker-test:~$ `cp Source Destination`
+
+> Vagrant@docker-test:~$ `cp Source Directory`
+
+In the above code, the source file is copied to destination or directory.
+
 
 
 
