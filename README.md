@@ -88,3 +88,10 @@ the file path can be accessed by using the command "pwd".
 `/home/vagrant/IS601`
 
 The pwd command lets you know the location of the mentioned file. 
+
+***Using the tab key to complete file paths***
+
+When you press tab, linux will complete the rest of the file name to the best of it’s knowledge.
+
+> Pressing the tab button without any code will display every possible code available.
+
