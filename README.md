@@ -79,4 +79,12 @@ Repository for the user’s local files
 
 This command shows the first directory after the user loga in.
 
+***File path in Linux***
 
+the file path can be accessed by using the command "pwd".
+
+> Vagrant@docker-test:~$ `pwd file-name`
+
+`/home/vagrant/IS601`
+
+The pwd command lets you know the location of the mentioned file. 
