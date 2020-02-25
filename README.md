@@ -1,6 +1,6 @@
 # IS601-git-project
 
-##[git commands](https://github.com/sherif-ffs/IS601-git-project/blob/master/GITCOMMANDS.MD)
+[git commands](https://github.com/sherif-ffs/IS601-git-project/blob/master/GITCOMMANDS.MD)
 
 **Linux Commands**
 
